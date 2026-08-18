@@ -214,22 +214,6 @@ Native Android translation client with a clean Material interface.
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Contribution graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake.svg" />
-</picture>
-
-<sub>Regenerated automatically every day by a GitHub Action.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
-
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> Say hello
 
 <div align="center">
