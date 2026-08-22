@@ -210,6 +210,7 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 <a href="mailto:nilushamadhuwanthi02@gmail.com"><img src="https://img.shields.io/badge/Email-nilushamadhuwanthi02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/nilushamadhuwanthi123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://nilusha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-C9A85C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/><br/>
 <sub><i>Open to internships, junior full-stack roles, and anything worth building properly.</i></sub>
