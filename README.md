@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=NILUSHA%20MADHUWANTHI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-Stack%20Engineer%20in%20training%20%E2%80%94%20Web%2C%20Frontend%20%26%20Mobile&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;17+shipped+repositories+and+counting;7+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;17+shipped+repositories+and+counting;9+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -176,11 +176,26 @@ keyboard- and screen-reader-operable, not just mouse-first.
 
 #### 🏥 MediCare &mdash; Hospital Management
 Patients, appointments, staff and records in a full CRUD system with
-role-based access control.
+role-based access control, seeded with realistic demo data.
 
-`JavaScript` `Node.js` `MySQL`
+`React` `Node.js` `Express` `MongoDB`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-medicare--hms-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29)](https://medicare-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/MediCare-Hospital_Management_System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧭 Orvexa &mdash; Operations & Productivity Platform
+Projects, a drag-and-drop task board, real-time collaboration over
+Socket.IO and analytics computed from real data, not decorative numbers.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-orvexa-16A34A?style=for-the-badge&logo=railway&logoColor=white&labelColor=0F0C29)](https://orvexa-production-1b61.up.railway.app)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/orvexa-productivity-platform)
 
 </td>
 </tr>
