@@ -243,12 +243,25 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Activity&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
 
-<div align="center">
-<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake-dark.svg" />
-</div>
+<!--
+  A live contribution-eating snake belongs here — it needs a GitHub Actions
+  workflow committed to this repo (.github/workflows/snake.yml) that regenerates
+  it daily and pushes to an `output` branch. That push requires the `workflow`
+  OAuth scope, which this session's `gh` token doesn't have yet.
+  Run once to unblock it, then the snake can go back in:
+    gh auth refresh -h github.com -s workflow
+-->
 
 <div align="center">
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nilushamadhuwanthi123&bg_color=0F0C29&color=A78BFA&line=6D28D9&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nilushamadhuwanthi123&theme=github_dark&utcOffset=5.5" />
+</div>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Let's%20Talk&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
