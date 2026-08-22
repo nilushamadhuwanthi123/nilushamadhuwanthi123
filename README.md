@@ -99,6 +99,34 @@ const nilusha = {
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Focus&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**Where I spend the most time**
+
+![](https://progress-bar.dev/92/?title=JavaScript&width=220&color=a78bfa)
+![](https://progress-bar.dev/78/?title=PHP+%2B+MySQL&width=220&color=a78bfa)
+![](https://progress-bar.dev/72/?title=React&width=220&color=a78bfa)
+![](https://progress-bar.dev/65/?title=Java+%2F+Kotlin&width=220&color=a78bfa)
+![](https://progress-bar.dev/60/?title=Node.js&width=220&color=a78bfa)
+
+</td>
+<td width="45%" valign="top">
+
+**Currently leveling up**
+
+- 🟢 Docker & container deployments &mdash; shipped NexaBank on it
+- 🟡 System design for the MERN-stack projects still to deploy
+- 🟡 Testing discipline (unit + integration) on new builds
+- 🔵 Accessibility patterns beyond what MIREVA already does
+
+</td>
+</tr>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Selected%20Work&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <table width="100%">
@@ -199,6 +227,10 @@ dashboard, built to make a full month of cash flow legible at a glance.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Activity&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
+
+<div align="center">
+<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake-dark.svg" />
+</div>
 
 <div align="center">
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nilushamadhuwanthi123&bg_color=0F0C29&color=A78BFA&line=6D28D9&point=ffffff&area=true&hide_border=true" />
