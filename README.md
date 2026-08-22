@@ -36,9 +36,9 @@ are deployed and linked below &mdash; click through, they actually run.
 const nilusha = {
   currentFocus : "Full-Stack Engineering",
   internships  : {
-    egotechworld : "Software Engineering Intern — through Jan/Feb 2027",
-    codealpha    : "Frontend Development Intern — through Sep 2026",
-    codveda      : "Development Intern — completed, 3 levels",
+    egotechworld : "Full Stack Engineer Intern — through Jan/Feb 2027",
+    codealpha    : "Frontend Developer Intern @ CodeAlpha Technologies — through Sep 2026",
+    codveda      : "Web Developer Intern @ Codveda Technologies — completed, 3 levels",
   },
   principle    : "No eval(). No framework I don't understand. No shortcuts on a11y.",
 };
@@ -68,19 +68,19 @@ const nilusha = {
 </tr>
 <tr>
 <td><b>EgoTechWorld</b></td>
-<td>Software Engineering Intern</td>
+<td>Full Stack Engineer Intern</td>
 <td>Jan/Feb 2027</td>
 <td>🟢 <b>6 months</b></td>
 </tr>
 <tr>
-<td><b>CodeAlpha</b></td>
-<td>Frontend Development Intern</td>
+<td><b>CodeAlpha Technologies</b></td>
+<td>Frontend Developer Intern</td>
 <td>Sep 20, 2026</td>
 <td>🟢 <b>1 month</b></td>
 </tr>
 <tr>
-<td><b>Codveda</b></td>
-<td>Development Intern</td>
+<td><b>Codveda Technologies</b></td>
+<td>Web Developer Intern</td>
 <td>&mdash;</td>
 <td>✅ <b>3 levels, completed</b></td>
 </tr>
