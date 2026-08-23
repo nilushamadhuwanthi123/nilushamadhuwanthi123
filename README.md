@@ -22,10 +22,11 @@
 ### `whoami`
 
 I'm an undergraduate at **SLIIT** who'd rather ship something small and real than
-plan something big and theoretical. Right now that means running **two internships
-at once** &mdash; EgoTechWorld and CodeAlpha &mdash; on top of a full course load,
-and using every one of my personal repos as a place to practice engineering
-discipline, not just make something that works once.
+plan something big and theoretical. Right now that means running a **Software
+Engineering internship at EgoTechWorld** alongside a **Web Developer internship
+at Codveda Technologies** &mdash; on top of a full course load, and using every
+one of my personal repos as a place to practice engineering discipline, not just
+make something that works once.
 
 Most of my featured projects are deliberately framework-free. Before I let React
 or Next.js abstract something away, I want to have built it in plain JavaScript
@@ -37,8 +38,7 @@ const nilusha = {
   currentFocus : "Full-Stack Engineering",
   internships  : {
     egotechworld : "Full Stack Engineer Intern — through Jan/Feb 2027",
-    codealpha    : "Frontend Developer Intern @ CodeAlpha Technologies — through Sep 2026",
-    codveda      : "Web Developer Intern @ Codveda Technologies — completed, 3 levels",
+    codveda      : "Web Developer Intern @ Codveda Technologies — ongoing, 3 levels done",
   },
   principle    : "No eval(). No framework I don't understand. No shortcuts on a11y.",
 };
@@ -73,16 +73,10 @@ const nilusha = {
 <td>🟢 <b>6 months</b></td>
 </tr>
 <tr>
-<td><b>CodeAlpha Technologies</b></td>
-<td>Frontend Developer Intern</td>
-<td>Sep 20, 2026</td>
-<td>🟢 <b>1 month</b></td>
-</tr>
-<tr>
 <td><b>Codveda Technologies</b></td>
 <td>Web Developer Intern</td>
 <td>&mdash;</td>
-<td>✅ <b>3 levels, completed</b></td>
+<td>🟢 <b>Ongoing — 3 levels done</b></td>
 </tr>
 </table>
 
@@ -270,7 +264,7 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 <a href="mailto:nilushamadhuwanthi02@gmail.com"><img src="https://img.shields.io/badge/Email-nilushamadhuwanthi02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/nilushamadhuwanthi123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
-<a href="https://nilusha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-C9A85C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://portfolio-build-mauve.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-C9A85C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/><br/>
 <sub><i>Open to internships, junior full-stack roles, and anything worth building properly.</i></sub>
