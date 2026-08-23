@@ -49,8 +49,6 @@ const nilusha = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=nilushamadhuwanthi123&hide_border=true&background=0B0D0A&stroke=C9A85C&ring=C9A85C&fire=C9A85C&currStreakLabel=C9A85C&sideLabels=E8DCC0&dates=9c9686&currStreakNum=E8DCC0&sideNums=E8DCC0" width="100%" />
-
 <table width="100%">
 <tr><td align="center"><b>16</b><br/><sub>shipped projects</sub></td><td align="center"><b>3</b><br/><sub>internships</sub></td></tr>
 <tr><td align="center"><b>11</b><br/><sub>Simplilearn courses</sub></td><td align="center"><b>25+</b><br/><sub>MongoDB badges</sub></td></tr>
