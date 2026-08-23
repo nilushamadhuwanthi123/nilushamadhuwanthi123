@@ -192,6 +192,19 @@ Socket.IO and analytics computed from real data, not decorative numbers.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/orvexa-productivity-platform)
 
 </td>
+<td width="50%" valign="top">
+
+#### 📝 MyNotes &mdash; Full-Stack Notes App
+EgoTechWorld's first team project. My part was the Note_Nilusha module &mdash;
+the note cards grid, category filter buttons, a dedicated search tab, and
+the edit &amp; delete actions for each note.
+
+`React` `Spring Boot` `MongoDB`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-mynotes-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29)](https://note-app-egotechworld.vercel.app)
+[**View repository →**](https://github.com/LEULEX-404/Note-App---Egotechworld)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -238,12 +251,11 @@ dashboard, built to make a full month of cash flow legible at a glance.
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:302B63,100:0F0C29&height=70&section=header&text=Activity&fontSize=26&fontColor=E5E7EB&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <!--
-  A live contribution-eating snake belongs here — it needs a GitHub Actions
-  workflow committed to this repo (.github/workflows/snake.yml) that regenerates
-  it daily and pushes to an `output` branch. That push requires the `workflow`
-  OAuth scope, which this session's `gh` token doesn't have yet.
-  Run once to unblock it, then the snake can go back in:
-    gh auth refresh -h github.com -s workflow
+  A live contribution-eating snake belongs here — the workflow file is ready
+  (.github/workflows/snake.yml, not committed yet) but pushing a new GitHub
+  Actions workflow needs the `workflow` OAuth scope, which the current git
+  credential doesn't have. Re-authenticate with that scope, then commit the
+  workflow file and add the <img> back pointing at the `output` branch SVG.
 -->
 
 <div align="center">
@@ -264,7 +276,7 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 <a href="mailto:nilushamadhuwanthi02@gmail.com"><img src="https://img.shields.io/badge/Email-nilushamadhuwanthi02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" /></a>
 <a href="https://github.com/nilushamadhuwanthi123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29" /></a>
-<a href="https://portfolio-build-mauve.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-C9A85C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
+<a href="https://nilusha-madhuwanthi-portpolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-C9A85C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F0C29" /></a>
 
 <br/><br/>
 <sub><i>Open to internships, junior full-stack roles, and anything worth building properly.</i></sub>
