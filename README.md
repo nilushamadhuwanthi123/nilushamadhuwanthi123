@@ -234,6 +234,36 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧁 Bakery Management System
+EgoTechWorld's second team project. My part was the order & customer management
+module &mdash; customer profiles, loyalty tiers, an order status workflow, stock
+reservation and payments.
+
+`React` `Spring Boot` `MongoDB`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-bakery--system-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://bakery-system-hazel.vercel.app/login)
+[**Tutorial build →**](https://totorial-bakery-system.vercel.app/)
+[**View repository →**](https://github.com/LEULEX-404/Bakery_System)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🥐 Bakery Management System &mdash; Laravel Edition
+A 3rd team project rebuilding the bakery system on a new required stack:
+Laravel (PHP) backend + React frontend. My part is the same order & customer
+management module, ported from the Spring Boot version with the same business
+rules.
+
+`React` `Laravel` `MySQL`
+
+[![Status](https://img.shields.io/badge/Status-In%20Progress-C9A85C?style=for-the-badge&labelColor=0B0D0A)](https://github.com/Imogirl/Laravel-Bakery-System)
+[**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
+
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
