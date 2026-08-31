@@ -264,6 +264,26 @@ rules.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩸 HCI Blood Bank App &mdash; Doctor Module
+A university group project (SLIIT HCI course) &mdash; a Flutter blood-donation/
+blood-bank mobile app built on Firebase. My part is the Doctor & Blood Bank
+module: donor coordination and comparison, blood demand and request tracking,
+critical-request escalation with two-person verification, and a filterable
+request history with CSV/PDF export.
+
+`Flutter` `Dart` `Firebase`
+
+[![Status](https://img.shields.io/badge/Status-In%20Progress-C9A85C?style=for-the-badge&labelColor=0B0D0A)](https://github.com/kavindu-maduhansa/HCI/tree/feat_Member3_DoctorM)
+[**View repository (my branch) →**](https://github.com/kavindu-maduhansa/HCI/tree/feat_Member3_DoctorM)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
