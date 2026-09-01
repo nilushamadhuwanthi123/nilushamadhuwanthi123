@@ -290,7 +290,7 @@ high score.
 
 `Vanilla JS` `Canvas`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-precision--snake-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://claude.ai/code/artifact/5282889e-0bda-4014-8c3a-3a943f1bd9d6)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-precision--snake-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/precision-snake_Game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/precision-snake_Game)
 
 </td>
