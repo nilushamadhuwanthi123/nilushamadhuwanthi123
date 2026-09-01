@@ -295,10 +295,66 @@ high score.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐤 Flappy Flight
+A for-fun side project built in my free time &mdash; a Flappy Bird clone in
+vanilla JavaScript and the Canvas API, no frameworks or dependencies.
+Fixed-timestep game loop, keyboard/touch/mouse controls, persisted high score.
+
+`Vanilla JS` `Canvas`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-flappy--flight-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/flappy-flight_game/)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/flappy-flight_game)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧱 Brick Vector
+A for-fun side project built in my free time &mdash; a Breakout clone in
+vanilla JS + Canvas. Real angle-reflection paddle physics, five brick
+layouts with escalating difficulty, 3-life system.
+
+`Vanilla JS` `Canvas`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-brick--vector-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/brick-vector_game/)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/brick-vector_game)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔢 2048
+A for-fun side project built in my free time &mdash; the classic 2048
+puzzle in vanilla JS, DOM elements and CSS Grid. Merge-once-per-move logic,
+CSS-transition animation, full keyboard/touch/accessibility support.
+
+`Vanilla JS` `CSS Grid`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2048-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/game-2048_game/)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/game-2048_game)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏎️ Precision Drift
+A for-fun side project built in my free time &mdash; a more advanced
+endless car-racing/traffic-dodging game in vanilla JS + Canvas. Smooth
+lane-changing, a considered difficulty curve, coin/shield pickups.
+
+`Vanilla JS` `Canvas`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-precision--drift-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/precision-drift_game/)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/precision-drift_game)
+
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2017%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/Browse%20all%2022%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
 </a>
 </div>
 
