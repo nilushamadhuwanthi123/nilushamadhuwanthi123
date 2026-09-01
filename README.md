@@ -351,10 +351,29 @@ lane-changing, a considered difficulty curve, coin/shield pickups.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ TaskFlow API — DevOps & CI/CD Showcase
+A JWT-authenticated task management REST API built to demonstrate a real
+production pipeline: Docker, automated Jest/Supertest tests and a GitHub
+Actions CI/CD workflow that lint + test + Docker-build gates every push
+before Render auto-deploys the same Dockerfile.
+
+`Node.js` `Express` `MongoDB` `Docker` `GitHub Actions` `Jest`
+
+[![CI](https://github.com/nilushamadhuwanthi123/taskflow-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/taskflow-api/actions/workflows/ci.yml)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/taskflow-api)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2022%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/Browse%20all%2024%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
 </a>
 </div>
 
