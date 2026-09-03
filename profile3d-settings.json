@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-custom-niluverse.svg",
+    "backgroundColor": "#0B0D0A",
+    "foregroundColor": "#E8DCC0",
+    "strongColor": "#C9A85C",
+    "weakColor": "#3A2F17",
+    "radarColor": "#C9A85C",
+    "growingAnimation": true,
+    "contribColors": [
+      "#161616",
+      "#3A2F17",
+      "#7A5E22",
+      "#C9A85C",
+      "#E8DCC0"
+    ]
+  }
+]

@@ -395,24 +395,47 @@ before Render auto-deploys the same Dockerfile.
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Activity&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />
 
-<!--
-  A live contribution-eating snake belongs here — the workflow file is ready
-  (.github/workflows/snake.yml, not committed yet) but pushing a new GitHub
-  Actions workflow needs the `workflow` OAuth scope, which the current git
-  credential doesn't have. Re-authenticate with that scope, then commit the
-  workflow file and add the <img> back pointing at the `output` branch SVG.
--->
-
 <div align="center">
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nilushamadhuwanthi123&bg_color=0B0D0A&color=C9A85C&line=C9A85C&point=E8DCC0&area=true&hide_border=true" />
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nilushamadhuwanthi123&theme=github_dark&utcOffset=5.5" />
 </div>
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=nilushamadhuwanthi123&theme=github-dark&hide_border=true&background=0B0D0A&ring=C9A85C&fire=C9A85C&currStreakNum=E8DCC0&sideNums=E8DCC0&currStreakLabel=C9A85C&sideLabels=E8DCC0&dates=8A8578&border=C9A85C" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nilushamadhuwanthi123&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+</div>
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<div align="center">
+
+<!-- Rebuilt daily by .github/workflows/profile-3d-contrib.yml, pushed to the profile3d-data branch -->
+<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/profile3d-data/profile-3d-contrib/profile-custom-niluverse.svg" alt="3D contribution graph" />
+
+<br/><br/>
+
+<!-- Rebuilt daily by .github/workflows/snake.yml, pushed to the output branch -->
+<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake.svg" alt="Contribution snake" />
+
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Let's%20Talk&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />
 
