@@ -13,7 +13,8 @@
 
 <br/><br/>
 
-<img width="70" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="a very professional mascot" />
+<img width="90" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="a very professional mascot" />
+<img width="90" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium%20Skin%20Tone.png" alt="always exploring something new" />
 
 </div>
 
