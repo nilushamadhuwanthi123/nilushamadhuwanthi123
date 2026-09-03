@@ -418,9 +418,13 @@ before Render auto-deploys the same Dockerfile.
 </tr>
 </table>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nilushamadhuwanthi123&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-</div>
+<!--
+  Trophies row removed for now: the public github-profile-trophy.vercel.app
+  instance is returning 402/DEPLOYMENT_DISABLED (its free Vercel quota is
+  exhausted — a known, recurring issue with that shared public host, not
+  specific to this profile). Add it back once that service is reachable
+  again: <img src="https://github-profile-trophy.vercel.app/?username=nilushamadhuwanthi123&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+-->
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
