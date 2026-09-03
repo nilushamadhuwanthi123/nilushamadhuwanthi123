@@ -14,7 +14,16 @@
 <br/><br/>
 
 <img width="90" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="a very professional mascot" />
-<img width="90" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium%20Skin%20Tone.png" alt="always exploring something new" />
+
+<br/>
+
+<!-- Astronaut flying across the full README width. A GIF instead of the static Fluent Emoji PNG
+     because CSS/SMIL position animation inside an <img>-embedded SVG does not reliably play on
+     GitHub (same limitation that affected the contribution snake) -- baking the flight path into
+     real GIF frames is the only way to get actual left-to-right motion here. Custom-generated:
+     72 real animation frames from the source Fluent Emoji astronaut, composited frame-by-frame
+     across a NILUVERSE-themed starfield with a gold comet trail. -->
+<img width="100%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/main/assets/astronaut-fly.gif" alt="astronaut flying across the profile" />
 
 </div>
 
