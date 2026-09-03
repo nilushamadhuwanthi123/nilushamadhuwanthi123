@@ -437,8 +437,16 @@ before Render auto-deploys the same Dockerfile.
 
 <br/><br/>
 
-<!-- Rebuilt daily by .github/workflows/snake.yml, pushed to the output branch -->
-<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake.svg" alt="Contribution snake" />
+<!--
+  Using the .gif here on purpose, not the .svg: GitHub embeds README images
+  with a plain <img> tag, and CSS @keyframes animations inside an SVG don't
+  reliably play when the SVG is loaded that way — it just renders one frozen
+  frame (mostly-black, since the snake's "empty" resting color is dark). A
+  GIF has no such restriction and always animates. Both are still generated
+  and pushed by .github/workflows/snake.yml, in case the .svg is wanted
+  elsewhere.
+-->
+<img width="94%" src="https://raw.githubusercontent.com/nilushamadhuwanthi123/nilushamadhuwanthi123/output/github-snake.gif" alt="Contribution snake" />
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Let's%20Talk&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />

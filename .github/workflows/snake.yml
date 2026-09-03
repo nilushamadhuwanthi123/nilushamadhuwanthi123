@@ -23,6 +23,7 @@ jobs:
           github_user_name: nilushamadhuwanthi123
           outputs: |
             dist/github-snake.svg?color_snake=%23C9A85C&color_dots=%23161616,%233A2F17,%237A5E22,%23C9A85C,%23E8DCC0
+            dist/github-snake.gif?color_snake=%23C9A85C&color_dots=%23161616,%233A2F17,%237A5E22,%23C9A85C,%23E8DCC0&color_background=%230B0D0A
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
