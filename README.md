@@ -253,11 +253,16 @@ reservation and payments.
 
 #### 🥐 Bakery Management System &mdash; Laravel Edition
 A 3rd team project rebuilding the bakery system on a new required stack:
-Laravel (PHP) backend + React frontend. My part is the same order & customer
-management module, ported from the Spring Boot version with the same business
-rules.
+Laravel (PHP) backend + React frontend. My part is the order & customer
+management module &mdash; a concurrency-safe order/customer ID generator, an
+order status workflow with stock reserved only on confirmation, partial
+payments and a 4-tier loyalty system &mdash; ported from the Spring Boot
+version with the same business rules and verified by running the app
+end-to-end and exercising the live API.
 
 `React` `Laravel` `MySQL`
+
+Team repository owned by teammate **[@Imogirl](https://github.com/Imogirl)** &mdash; I contribute as a collaborator.
 
 [![Status](https://img.shields.io/badge/Status-In%20Progress-C9A85C?style=for-the-badge&labelColor=0B0D0A)](https://github.com/Imogirl/Laravel-Bakery-System)
 [**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
