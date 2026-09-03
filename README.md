@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-16A34A?style=for-the-badge&labelColor=0B0D0A" />
 
+<br/><br/>
+
+<img width="70" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="a very professional mascot" />
+
 </div>
 
 <br/>
