@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution-grid snake (NILUVERSE gold/navy theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nilushamadhuwanthi123
+          outputs: |
+            dist/github-snake.svg?color_snake=%23C9A85C&color_dots=%23161616,%233A2F17,%237A5E22,%23C9A85C,%23E8DCC0
+
+      - name: Push generated SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
