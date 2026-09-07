@@ -401,10 +401,35 @@ rather than in the UI.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌌 CLOUDVERSE &mdash; Cybersecurity District
+A gamified simulation of cloud, DevOps and security concepts, built with
+a teammate through real pull-request review. I own the Cyber district and
+the shared architecture underneath it: a threat lifecycle with
+system-state-based generation, a firewall simulation, scoring with streak
+bonuses, and a mission chain that unlocks in order and survives a
+refresh. Rules live in a framework-free `game/` layer, and every read and
+write goes through an async `services/` seam &mdash; so the client could
+swap to a real API without rewriting a component.
+
+`React 19` `Vite` `JavaScript` `anime.js` `Vitest` `GitHub Actions`
+
+[![CI](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world)
+
+<sub>77 tests · zero axe-core accessibility violations · lint, tests and build gated on every PR</sub>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2024%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/Browse%20all%2026%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
 </a>
 </div>
 
