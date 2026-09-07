@@ -387,6 +387,18 @@ before Render auto-deploys the same Dockerfile.
 </td>
 <td width="50%" valign="top">
 
+#### 🏫 Uninex Campus Hub
+A solo campus resource &amp; booking platform &mdash; resource/seat setup,
+time-slot booking with an approval workflow and QR tickets, incident
+tracking, reviews and an analytics dashboard. Google OAuth sign-in, with
+Spring Security enforcing the STUDENT/STAFF/ADMIN rules on the API itself
+rather than in the UI.
+
+`Spring Boot` `Java` `MongoDB` `React` `TypeScript` `OAuth 2.0` `Docker`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-uninex--campus--hub-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/uninex-campus-hub/)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/uninex-campus-hub)
+
 </td>
 </tr>
 </table>
