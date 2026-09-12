@@ -448,28 +448,28 @@ swap to a real API without rewriting a component.
 </div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Activity&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />
 
-<div align="center">
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=nilushamadhuwanthi123&bg_color=0B0D0A&color=C9A85C&line=C9A85C&point=E8DCC0&area=true&hide_border=true" />
-</div>
+<!-- Two cards were removed from this section on purpose.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+     github-readme-activity-graph.vercel.app was rendering as a broken
+     image, and github-profile-summary-cards.vercel.app was rendering a
+     red "Cards are temporarily rate limited" box. Both are shared free
+     instances with no per-user quota, so the failure is not fixable from
+     this side and shows up to every visitor on the profile. A card that
+     intermittently renders an error is worse than no card.
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nilushamadhuwanthi123&theme=github_dark&utcOffset=5.5" />
-</div>
-
-</td>
-<td width="50%" valign="top">
+     Same reason the trophy row went, noted further down. streak-stats
+     below has been reliable, so it stays and gets the full width. -->
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=nilushamadhuwanthi123&theme=github-dark&hide_border=true&background=0B0D0A&ring=C9A85C&fire=C9A85C&currStreakNum=E8DCC0&sideNums=E8DCC0&currStreakLabel=C9A85C&sideLabels=E8DCC0&dates=8A8578&border=C9A85C" />
+<img width="72%" src="https://streak-stats.demolab.com/?user=nilushamadhuwanthi123&theme=github-dark&hide_border=true&background=0B0D0A&ring=C9A85C&fire=C9A85C&currStreakNum=E8DCC0&sideNums=E8DCC0&currStreakLabel=C9A85C&sideLabels=E8DCC0&dates=8A8578&border=C9A85C" />
 </div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/github/last-commit/nilushamadhuwanthi123/cloudverse-cyber-world?style=for-the-badge&label=Last%20commit&color=C9A85C&labelColor=0B0D0A" />
+<img src="https://img.shields.io/github/languages/count/nilushamadhuwanthi123/Nilusha-Madhuwanthi_Portfolio?style=for-the-badge&label=Languages%20in%20portfolio&color=C9A85C&labelColor=0B0D0A" />
+
+</div>
 
 <!--
   Trophies row removed for now: the public github-profile-trophy.vercel.app
