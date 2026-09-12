@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,50:14140F,100:0B0D0A&height=230&section=header&text=NILUVERSE&fontColor=E8DCC0&fontSize=52&fontAlignY=36&desc=Nilusha%20Madhuwanthi%20%E2%80%94%20Full-Stack%20Engineer%20in%20training&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;17+shipped+repositories+and+counting;9+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;26+shipped+repositories+and+counting;20+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -278,7 +278,7 @@ end-to-end and exercising the live API.
 
 Team repository owned by teammate **[@Imogirl](https://github.com/Imogirl)** &mdash; I contribute as a collaborator.
 
-[![Status](https://img.shields.io/badge/Status-In%20Progress-C9A85C?style=for-the-badge&labelColor=0B0D0A)](https://github.com/Imogirl/Laravel-Bakery-System)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-purebake-16A34A?style=for-the-badge&logo=render&logoColor=white&labelColor=0B0D0A)](https://purebake.onrender.com/)
 [**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
 
 </td>
@@ -291,12 +291,13 @@ A university group project (SLIIT HCI course) &mdash; a Flutter blood-donation/
 blood-bank mobile app built on Firebase. My part is the Doctor & Blood Bank
 module: donor coordination and comparison, blood demand and request tracking,
 critical-request escalation with two-person verification, and a filterable
-request history with CSV/PDF export.
+request history with CSV/PDF export. Deployed as a Flutter web build on
+GitHub Pages &mdash; `flutter analyze` clean, 225 tests passing.
 
 `Flutter` `Dart` `Firebase`
 
-[![Status](https://img.shields.io/badge/Status-In%20Progress-C9A85C?style=for-the-badge&labelColor=0B0D0A)](https://github.com/kavindu-maduhansa/HCI/tree/feat_Member3_DoctorM)
-[**View repository (my branch) →**](https://github.com/kavindu-maduhansa/HCI/tree/feat_Member3_DoctorM)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Life--Link-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://kavindu-maduhansa.github.io/Life-Link/)
+[**View repository (my branch) →**](https://github.com/kavindu-maduhansa/Life-Link/tree/feat_Member3_DoctorM)
 
 </td>
 <td width="50%" valign="top">
@@ -416,10 +417,11 @@ swap to a real API without rewriting a component.
 
 `React 19` `Vite` `JavaScript` `anime.js` `Vitest` `GitHub Actions`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-CLOUDVERSE-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/cloudverse-cyber-world/)
 [![CI](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world)
 
-<sub>77 tests · zero axe-core accessibility violations · lint, tests and build gated on every PR</sub>
+<sub>397 tests across 27 files · lint, tests and build gated on every PR · deploys to GitHub Pages on merge</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -437,7 +439,7 @@ swap to a real API without rewriting a component.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/16%20Projects%20Shipped-Live%20%2F%20Open--Source-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/26%20Projects%20Shipped-Live%20%2F%20Open--Source-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/3%20Internships-EgoTechWorld%20%C2%B7%20Codveda%20%C2%B7%20CodeAlpha-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
 <img src="https://img.shields.io/badge/11%20Simplilearn%20Courses-Completed-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/25%2B%20MongoDB%20Skill%20Badges-Earned-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
