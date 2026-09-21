@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,50:14140F,100:0B0D0A&height=230&section=header&text=NILUVERSE&fontColor=E8DCC0&fontSize=52&fontAlignY=36&desc=Nilusha%20Madhuwanthi%20%E2%80%94%20Full-Stack%20Engineer%20in%20training&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;27+shipped+repositories+and+counting;21+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;One+live+internship+%2B+two+completed;27+shipped+repositories+and+counting;21+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -36,8 +36,9 @@
 
 I'm an undergraduate at **SLIIT** who'd rather ship something small and real than
 plan something big and theoretical. Right now that means running a **Full Stack
-Engineer internship at EgoTechWorld** alongside a **Web Developer internship at
-Codveda Technologies** &mdash; on top of a full course load, and using every
+Engineer internship at EgoTechWorld**, having completed a **Web Developer
+internship at Codveda Technologies** and a **Frontend Development internship at
+CodeAlpha** &mdash; on top of a full course load, and using every
 one of my personal repos as a place to practice engineering discipline, not just
 make something that works once.
 
@@ -53,8 +54,9 @@ rather show a universe.
 const nilusha = {
   currentFocus : "Full-Stack Engineering",
   internships  : {
-    egotechworld : "Full Stack Engineer Intern — through Jan/Feb 2027",
-    codveda      : "Web Developer Intern @ Codveda Technologies — ongoing, 3 levels done",
+    egotechworld : "Full Stack Engineer Intern — ongoing, through Jan/Feb 2027",
+    codveda      : "Web Developer Intern — completed, 3 levels done",
+    codealpha    : "Frontend Development Intern — completed, 20 Aug – 20 Sep 2026",
   },
   principle    : "No eval(). No framework I don't understand. No shortcuts on a11y.",
 };
@@ -84,17 +86,23 @@ const nilusha = {
 <td><b>EgoTechWorld</b></td>
 <td>Full Stack Engineer Intern</td>
 <td>Jan/Feb 2027</td>
-<td>🟢 <b>6 months</b></td>
+<td>🟢 <b>Ongoing — 6 months in</b></td>
 </tr>
 <tr>
 <td><b>Codveda Technologies</b></td>
 <td>Web Developer Intern</td>
 <td>&mdash;</td>
-<td>🟢 <b>Ongoing — 3 levels done</b></td>
+<td>✅ <b>Completed — 3 levels done</b></td>
+</tr>
+<tr>
+<td><b>CodeAlpha</b></td>
+<td>Frontend Development Intern</td>
+<td>20 Sep 2026</td>
+<td>✅ <b>Completed — certificate &amp; recommendation letter</b></td>
 </tr>
 </table>
 
-<sub>Two concurrent internships alongside a full-time degree. Everything below is what came out of that.</sub>
+<sub>Three internships alongside a full-time degree &mdash; one running, two finished. Everything below is what came out of that.</sub>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Stack&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <div align="center">
