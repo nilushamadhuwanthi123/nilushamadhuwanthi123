@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,50:14140F,100:0B0D0A&height=230&section=header&text=NILUVERSE&fontColor=E8DCC0&fontSize=52&fontAlignY=36&desc=Nilusha%20Madhuwanthi%20%E2%80%94%20Full-Stack%20Engineer%20in%20training&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;26+shipped+repositories+and+counting;20+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Two+live+internships+%2B+a+full-time+degree;27+shipped+repositories+and+counting;21+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -426,12 +426,33 @@ swap to a real API without rewriting a component.
 </td>
 <td width="50%" valign="top">
 
+#### 🛡️ SENTINEL &mdash; Incident Response Platform
+A defensive security operations console. A live event feed is correlated
+into one named incident, scored for risk with the reasoning shown, mapped
+onto an infrastructure dependency graph, and turned into ranked containment
+options with their real cost &mdash; what each one removes, what it breaks,
+and whether it can be undone.
+
+Business rules live in pure engine modules with no React, DOM or network in
+them, so every judgement the interface makes is unit-testable on its own.
+The guidance panel is **deterministic rules, not a language model**, and
+says so before it says anything else. The evidence export is called a
+checksum, never a signature.
+
+`React` `Vite` `Node.js` `Socket.IO` `Vitest` `GitHub Actions`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-SENTINEL-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/sentinel-incident-response-platform/)
+[![CI](https://github.com/nilushamadhuwanthi123/sentinel-incident-response-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/sentinel-incident-response-platform/actions/workflows/ci.yml)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/sentinel-incident-response-platform)
+
+<sub>450 tests · 13 reviewed pull requests · lint, tests and build gated on every PR · deploys to GitHub Pages on merge</sub>
+
 </td>
 </tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2026%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/Browse%20all%2027%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
 </a>
 </div>
 
@@ -439,7 +460,7 @@ swap to a real API without rewriting a component.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/26%20Projects%20Shipped-Live%20%2F%20Open--Source-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/27%20Projects%20Shipped-Live%20%2F%20Open--Source-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/3%20Internships-EgoTechWorld%20%C2%B7%20Codveda%20%C2%B7%20CodeAlpha-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
 <img src="https://img.shields.io/badge/11%20Simplilearn%20Courses-Completed-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/25%2B%20MongoDB%20Skill%20Badges-Earned-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
