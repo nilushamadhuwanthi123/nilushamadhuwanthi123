@@ -290,6 +290,23 @@ Team repository owned by teammate **[@Imogirl](https://github.com/Imogirl)** &md
 [**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
 
 </td>
+<td width="50%" valign="top">
+
+#### 📦 Stock Management ERP &mdash; Supplier & Purchase Management
+EgoTechWorld's 4th team project &mdash; a multi-module stock management ERP
+built by a 4-person team in PHP and MySQL. My part is the Supplier & Purchase
+Management module: the full procurement lifecycle from requisition through
+RFQ, purchase orders, approvals, goods receipt and quality check, to
+invoicing, payment and returns, plus six advanced features on top &mdash;
+three-way PO/GRN/invoice matching, controlled PO revision with version
+history, a delivery variance workbench, a budget guard, rule-based supplier
+scoring, and a landed cost calculator.
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+[**View repository**](https://github.com/LEULEX-404/stock-management-erp)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
