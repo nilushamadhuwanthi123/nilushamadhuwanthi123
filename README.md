@@ -474,6 +474,36 @@ checksum, never a signature.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚨 Rescue3D &mdash; Disaster Response Simulator
+A disaster-response coordination platform, built with a teammate through
+real pull-request review &mdash; I own incident intelligence and emergency
+response, he owns 3D simulation and DevOps.
+
+Incidents move through a forward-only status machine enforced server-side;
+a haversine routing engine computes a severity-weighted risk score and a
+risk-aware ETA per response unit; every status change and assignment is
+logged as a timestamped event and replayed as an incident timeline; and
+Socket.IO keeps every connected client in sync.
+
+The routing engine is labelled a **simulation** on every screen it appears
+on &mdash; a straight-line distance estimate is not a real routing service,
+and saying so is cheaper than being caught assuming otherwise.
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Rescue3D-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/rescue3d-disaster-response-simulator/)
+[![CI](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator/actions/workflows/ci.yml)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator)
+
+<sub>Frontend live on GitHub Pages · backend deploy in progress · business rules written as pure, DB-free functions so they are unit-tested in isolation</sub>
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
