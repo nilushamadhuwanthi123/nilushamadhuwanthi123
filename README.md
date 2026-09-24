@@ -147,7 +147,7 @@ Node.js         ▰▰▰▰▰▰▱▱▱▱ 60%
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🧮 NEXORA &mdash; Mathematics Workspace
 Graphing, step-by-step equation solving, matrices, statistics and unit
@@ -160,7 +160,7 @@ math.js &mdash; `eval()` appears nowhere in the codebase.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_Calculator)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🎵 WAVEORA &mdash; Offline Music Player
 A Web Audio API engine with a live visualiser, IndexedDB-backed library,
@@ -173,9 +173,7 @@ once it's loaded once.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_MusicPlayer)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🖼️ MIREVA &mdash; Visual Gallery Workspace
 Masonry & grid layouts, a cinematic lightbox, colour explorer, collections,
@@ -188,7 +186,9 @@ keyboard- and screen-reader-operable, not just mouse-first.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_ImageGallery)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 #### 🏥 MediCare &mdash; Hospital Management
 Patients, appointments, staff and records in a full CRUD system with
@@ -200,9 +200,7 @@ role-based access control, seeded with realistic demo data.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/MediCare-Hospital_Management_System)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🧭 Orvexa &mdash; Operations & Productivity Platform
 Projects, a drag-and-drop task board, real-time collaboration over
@@ -214,7 +212,7 @@ Socket.IO and analytics computed from real data, not decorative numbers.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/orvexa-productivity-platform)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 📝 MyNotes &mdash; Full-Stack Notes App
 EgoTechWorld's first team project. My part was the Note_Nilusha module &mdash;
@@ -229,7 +227,7 @@ the edit &amp; delete actions for each note.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🏦 NexaBank &mdash; Online Banking Platform
 Real account balances, instant transfers and ACID-safe money movement &mdash;
@@ -243,7 +241,7 @@ with a managed MySQL instance.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/NexaBank---Online-Banking-System)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 💰 FinTrack &mdash; Personal Finance Tracker
 Budgets, categorized transactions and spending trends in a React + Vite
@@ -255,9 +253,7 @@ dashboard, built to make a full month of cash flow legible at a glance.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/FinTrack-Finace-Tarcker-app_Codveda_Level-02_task3)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🧁 Bakery Management System
 EgoTechWorld's second team project. My part was the order & customer management
@@ -271,7 +267,9 @@ reservation and payments.
 [**View repository →**](https://github.com/LEULEX-404/Bakery_System)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 #### 🥐 Bakery Management System &mdash; Laravel Edition
 A 3rd team project rebuilding the bakery system on a new required stack:
@@ -290,7 +288,7 @@ Team repository owned by teammate **[@Imogirl](https://github.com/Imogirl)** &md
 [**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 📦 Stock Management ERP &mdash; Supplier & Purchase Management
 EgoTechWorld's 4th team project &mdash; a multi-module stock management ERP
@@ -307,9 +305,7 @@ scoring, and a landed cost calculator.
 [**View repository**](https://github.com/LEULEX-404/stock-management-erp)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🩸 HCI Blood Bank App &mdash; Doctor Module
 A university group project (SLIIT HCI course) &mdash; a Flutter blood-donation/
@@ -325,7 +321,9 @@ GitHub Pages &mdash; `flutter analyze` clean, 225 tests passing.
 [**View repository (my branch) →**](https://github.com/kavindu-maduhansa/Life-Link/tree/feat_Member3_DoctorM)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 #### 🐍 Precision Snake
 A for-fun side project built in my free time &mdash; a polished, from-scratch
@@ -339,9 +337,7 @@ high score.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/precision-snake_Game)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🐤 Flappy Flight
 A for-fun side project built in my free time &mdash; a Flappy Bird clone in
@@ -354,7 +350,7 @@ Fixed-timestep game loop, keyboard/touch/mouse controls, persisted high score.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/flappy-flight_game)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🧱 Brick Vector
 A for-fun side project built in my free time &mdash; a Breakout clone in
@@ -369,7 +365,7 @@ layouts with escalating difficulty, 3-life system.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🔢 2048
 A for-fun side project built in my free time &mdash; the classic 2048
@@ -382,7 +378,7 @@ CSS-transition animation, full keyboard/touch/accessibility support.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/game-2048_game)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🏎️ Precision Drift
 A for-fun side project built in my free time &mdash; a more advanced
@@ -395,9 +391,7 @@ lane-changing, a considered difficulty curve, coin/shield pickups.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/precision-drift_game)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### ⚙️ TaskFlow API — DevOps & CI/CD Showcase
 A JWT-authenticated task management REST API built to demonstrate a real
@@ -411,7 +405,9 @@ before Render auto-deploys the same Dockerfile.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/taskflow-api) · [**Live demo →**](https://taskflow-api-zvwb.onrender.com/health)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 #### 🏫 Uninex Campus Hub
 A solo campus resource &amp; booking platform &mdash; resource/seat setup,
@@ -426,9 +422,7 @@ rather than in the UI.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/uninex-campus-hub)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🌌 CLOUDVERSE &mdash; Cybersecurity District
 A gamified simulation of cloud, DevOps and security concepts, built with
@@ -449,7 +443,7 @@ swap to a real API without rewriting a component.
 <sub>397 tests across 27 files · lint, tests and build gated on every PR · deploys to GitHub Pages on merge</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🛡️ SENTINEL &mdash; Incident Response Platform
 A defensive security operations console. A live event feed is correlated
@@ -475,7 +469,7 @@ checksum, never a signature.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🚨 Rescue3D &mdash; Disaster Response Simulator
 A disaster-response coordination platform, built with a teammate through
@@ -501,7 +495,9 @@ and saying so is cheaper than being caught assuming otherwise.
 <sub>Frontend live on GitHub Pages · backend deploy in progress · business rules written as pure, DB-free functions so they are unit-tested in isolation</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
