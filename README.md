@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,50:14140F,100:0B0D0A&height=230&section=header&text=NILUVERSE&fontColor=E8DCC0&fontSize=52&fontAlignY=36&desc=Nilusha%20Madhuwanthi%20%E2%80%94%20Full-Stack%20Engineer%20in%20training&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;One+live+internship+%2B+two+completed;27+shipped+repositories+and+counting;21+of+them+are+live+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;One+live+internship+%2B+two+completed;28+shipped+repositories+and+counting;20+projects+live+right+now+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -37,15 +37,13 @@
 I'm an undergraduate at **SLIIT** who'd rather ship something small and real than
 plan something big and theoretical. Right now that means running a **Full Stack
 Engineer internship at EgoTechWorld**, having completed a **Web Developer
-internship at Codveda Technologies** and a **Frontend Development internship at
-CodeAlpha** &mdash; on top of a full course load, and using every
+internship at Codveda Technologies** and a **Frontend Developer internship at CodeAlpha Technologies** &mdash; on top of a full course load, and using every
 one of my personal repos as a place to practice engineering discipline, not just
 make something that works once.
 
-Most of my featured projects are deliberately framework-free. Before I let React
+A good number of my projects are deliberately framework-free. Before I let React
 or Next.js abstract something away, I want to have built it in plain JavaScript
-first and understood exactly what I was trading for convenience. Every project
-below is deployed and linked &mdash; click through, they actually run.
+first and understood exactly what I was trading for convenience. Most of what is listed below is deployed and linked &mdash; click through, they actually run &mdash; and the handful that are source-only or still being built say so on the card rather than borrowing a "Live" badge they have not earned.
 
 This profile and my [portfolio site](https://nilusha-madhuwanthi-portpolio.vercel.app)
 share one identity: **NILUVERSE** &mdash; because a resume is a list, and I'd
@@ -56,7 +54,7 @@ const nilusha = {
   internships  : {
     egotechworld : "Full Stack Engineer Intern — ongoing, through Jan/Feb 2027",
     codveda      : "Web Developer Intern — completed, 3 levels done",
-    codealpha    : "Frontend Development Intern — completed, 20 Aug – 20 Sep 2026",
+    codealpha    : "Frontend Developer Intern — completed, 20 Aug – 20 Sep 2026",
   },
   principle    : "No eval(). No framework I don't understand. No shortcuts on a11y.",
 };
@@ -66,7 +64,7 @@ const nilusha = {
 <td width="40%" valign="top" align="center">
 
 <table width="100%">
-<tr><td align="center"><b>16</b><br/><sub>shipped projects</sub></td><td align="center"><b>3</b><br/><sub>internships</sub></td></tr>
+<tr><td align="center"><b>30</b><br/><sub>shipped projects</sub></td><td align="center"><b>3</b><br/><sub>internships</sub></td></tr>
 <tr><td align="center"><b>11</b><br/><sub>Simplilearn courses</sub></td><td align="center"><b>25+</b><br/><sub>MongoDB badges</sub></td></tr>
 </table>
 
@@ -91,18 +89,18 @@ const nilusha = {
 <tr>
 <td><b>Codveda Technologies</b></td>
 <td>Web Developer Intern</td>
-<td>&mdash;</td>
-<td>✅ <b>Completed — 3 levels done</b></td>
+<td>From Aug 2026</td>
+<td>✅ <b>Completed — all 3 levels</b></td>
 </tr>
 <tr>
-<td><b>CodeAlpha</b></td>
-<td>Frontend Development Intern</td>
-<td>20 Sep 2026</td>
-<td>✅ <b>Completed — certificate &amp; recommendation letter</b></td>
+<td><b>CodeAlpha Technologies</b></td>
+<td>Frontend Developer Intern</td>
+<td>20 Aug – 20 Sep 2026</td>
+<td>✅ <b>Completed</b> — <a href="https://github.com/nilushamadhuwanthi123/Nilusha-Madhuwanthi_Portfolio/blob/main/assets/credentials/codealpha-certificate.pdf">Certificate of Completion</a> &middot; <a href="https://github.com/nilushamadhuwanthi123/Nilusha-Madhuwanthi_Portfolio/blob/main/assets/credentials/codealpha-recommendation-letter.pdf">Letter of Recommendation</a></td>
 </tr>
 </table>
 
-<sub>Three internships alongside a full-time degree &mdash; one running, two finished. Everything below is what came out of that.</sub>
+<sub>Three internships alongside a full-time degree &mdash; one running, two finished. Both CodeAlpha documents are the originals issued by the company (Student ID CA/DF1/246588, both dated 20 September 2026) and open straight from this repo, so nobody has to ask for them. Everything below is what came out of that.</sub>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:14140F,100:0B0D0A&height=70&section=header&text=Stack&fontSize=26&fontColor=E8DCC0&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <div align="center">
@@ -135,7 +133,7 @@ Node.js         ▰▰▰▰▰▰▱▱▱▱ 60%
 
 **Currently leveling up**
 
-- 🟢 Docker & container deployments &mdash; shipped NexaBank on it
+- 🟢 Docker & container deployments &mdash; TaskFlow API and Uninex Campus Hub both run on it live
 - 🟡 System design for the MERN-stack projects still to deploy
 - 🟡 Testing discipline (unit + integration) on new builds
 - 🔵 Accessibility patterns beyond what MIREVA already does
@@ -148,7 +146,6 @@ Node.js         ▰▰▰▰▰▰▱▱▱▱ 60%
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-
 #### 🧮 NEXORA &mdash; Mathematics Workspace
 Graphing, step-by-step equation solving, matrices, statistics and unit
 conversion in one installable PWA. Every expression is routed through
@@ -158,10 +155,8 @@ math.js &mdash; `eval()` appears nowhere in the codebase.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-nexora--calculator-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://nexora-calculator-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_Calculator)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🎵 WAVEORA &mdash; Offline Music Player
 A Web Audio API engine with a live visualiser, IndexedDB-backed library,
 queue, playlists and listening stats. Fully usable with no connection
@@ -171,10 +166,8 @@ once it's loaded once.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-waveora--musicplayer-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://waveora-musicplayer-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_MusicPlayer)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🖼️ MIREVA &mdash; Visual Gallery Workspace
 Masonry & grid layouts, a cinematic lightbox, colour explorer, collections,
 a lightweight editor and presentation mode &mdash; built to be fully
@@ -184,12 +177,10 @@ keyboard- and screen-reader-operable, not just mouse-first.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-mireva--imagegallery-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://mireva-imagegallery-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_ImageGallery)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🏥 MediCare &mdash; Hospital Management
 Patients, appointments, staff and records in a full CRUD system with
 role-based access control, seeded with realistic demo data.
@@ -198,22 +189,18 @@ role-based access control, seeded with realistic demo data.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-medicare--hms-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://medicare-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/MediCare-Hospital_Management_System)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🧭 Orvexa &mdash; Operations & Productivity Platform
 Projects, a drag-and-drop task board, real-time collaboration over
 Socket.IO and analytics computed from real data, not decorative numbers.
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orvexa-16A34A?style=for-the-badge&logo=railway&logoColor=white&labelColor=0B0D0A)](https://orvexa-production-1b61.up.railway.app)
+<sub>Hosted demo retired &mdash; same expired Railway trial as NexaBank.</sub>
 [**View repository →**](https://github.com/nilushamadhuwanthi123/orvexa-productivity-platform)
-
 </td>
 <td width="33%" valign="top">
-
 #### 📝 MyNotes &mdash; Full-Stack Notes App
 EgoTechWorld's first team project. My part was the Note_Nilusha module &mdash;
 the note cards grid, category filter buttons, a dedicated search tab, and
@@ -223,12 +210,10 @@ the edit &amp; delete actions for each note.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-mynotes-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://note-app-egotechworld.vercel.app)
 [**View repository →**](https://github.com/LEULEX-404/Note-App---Egotechworld)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🏦 NexaBank &mdash; Online Banking Platform
 Real account balances, instant transfers and ACID-safe money movement &mdash;
 every deposit/withdrawal/transfer runs inside a row-locked DB transaction.
@@ -237,12 +222,10 @@ with a managed MySQL instance.
 
 `PHP` `MySQL` `Docker` `Chart.js`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-nexabank-16A34A?style=for-the-badge&logo=railway&logoColor=white&labelColor=0B0D0A)](https://nexabank-web-production.up.railway.app)
+<sub>Hosted demo retired &mdash; the free Railway trial it ran on expired. The Docker setup still brings the whole stack up locally in one command.</sub>
 [**View repository →**](https://github.com/nilushamadhuwanthi123/NexaBank---Online-Banking-System)
-
 </td>
 <td width="33%" valign="top">
-
 #### 💰 FinTrack &mdash; Personal Finance Tracker
 Budgets, categorized transactions and spending trends in a React + Vite
 dashboard, built to make a full month of cash flow legible at a glance.
@@ -251,10 +234,8 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-fintrack-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://fintrack-nilusha.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/FinTrack-Finace-Tarcker-app_Codveda_Level-02_task3)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🧁 Bakery Management System
 EgoTechWorld's second team project. My part was the order & customer management
 module &mdash; customer profiles, loyalty tiers, an order status workflow, stock
@@ -265,12 +246,10 @@ reservation and payments.
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-bakery--system-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://bakery-system-hazel.vercel.app/login)
 [**Tutorial build →**](https://totorial-bakery-system.vercel.app/)
 [**View repository →**](https://github.com/LEULEX-404/Bakery_System)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🥐 Bakery Management System &mdash; Laravel Edition
 A 3rd team project rebuilding the bakery system on a new required stack:
 Laravel (PHP) backend + React frontend. My part is the order & customer
@@ -284,12 +263,10 @@ end-to-end and exercising the live API.
 
 Team repository owned by teammate **[@Imogirl](https://github.com/Imogirl)** &mdash; I contribute as a collaborator.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-purebake-16A34A?style=for-the-badge&logo=render&logoColor=white&labelColor=0B0D0A)](https://purebake.onrender.com/)
+<sub>Hosted demo is currently returning a server error &mdash; the repo and the local run are unaffected.</sub>
 [**View repository →**](https://github.com/Imogirl/Laravel-Bakery-System)
-
 </td>
 <td width="33%" valign="top">
-
 #### 📦 Stock Management ERP &mdash; Supplier & Purchase Management
 EgoTechWorld's 4th team project &mdash; a multi-module stock management ERP
 built by a 4-person team in PHP and MySQL. My part is the Supplier & Purchase
@@ -303,10 +280,8 @@ scoring, and a landed cost calculator.
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 [**View repository**](https://github.com/LEULEX-404/stock-management-erp)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🩸 HCI Blood Bank App &mdash; Doctor Module
 A university group project (SLIIT HCI course) &mdash; a Flutter blood-donation/
 blood-bank mobile app built on Firebase. My part is the Doctor & Blood Bank
@@ -319,12 +294,10 @@ GitHub Pages &mdash; `flutter analyze` clean, 225 tests passing.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Life--Link-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://kavindu-maduhansa.github.io/Life-Link/)
 [**View repository (my branch) →**](https://github.com/kavindu-maduhansa/Life-Link/tree/feat_Member3_DoctorM)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🐍 Precision Snake
 A for-fun side project built in my free time &mdash; a polished, from-scratch
 Snake game in vanilla JavaScript and the HTML5 Canvas API, no frameworks or
@@ -335,10 +308,8 @@ high score.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-precision--snake-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/precision-snake_Game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/precision-snake_Game)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🐤 Flappy Flight
 A for-fun side project built in my free time &mdash; a Flappy Bird clone in
 vanilla JavaScript and the Canvas API, no frameworks or dependencies.
@@ -348,10 +319,8 @@ Fixed-timestep game loop, keyboard/touch/mouse controls, persisted high score.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-flappy--flight-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/flappy-flight_game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/flappy-flight_game)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🧱 Brick Vector
 A for-fun side project built in my free time &mdash; a Breakout clone in
 vanilla JS + Canvas. Real angle-reflection paddle physics, five brick
@@ -361,12 +330,10 @@ layouts with escalating difficulty, 3-life system.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-brick--vector-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/brick-vector_game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/brick-vector_game)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🔢 2048
 A for-fun side project built in my free time &mdash; the classic 2048
 puzzle in vanilla JS, DOM elements and CSS Grid. Merge-once-per-move logic,
@@ -376,10 +343,8 @@ CSS-transition animation, full keyboard/touch/accessibility support.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-2048-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/game-2048_game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/game-2048_game)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🏎️ Precision Drift
 A for-fun side project built in my free time &mdash; a more advanced
 endless car-racing/traffic-dodging game in vanilla JS + Canvas. Smooth
@@ -389,10 +354,8 @@ lane-changing, a considered difficulty curve, coin/shield pickups.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-precision--drift-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/precision-drift_game/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/precision-drift_game)
-
 </td>
 <td width="33%" valign="top">
-
 #### ⚙️ TaskFlow API — DevOps & CI/CD Showcase
 A JWT-authenticated task management REST API built to demonstrate a real
 production pipeline: Docker, automated Jest/Supertest tests and a GitHub
@@ -403,12 +366,10 @@ before Render auto-deploys the same Dockerfile.
 
 [![CI](https://github.com/nilushamadhuwanthi123/taskflow-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/taskflow-api/actions/workflows/ci.yml)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/taskflow-api) · [**Live demo →**](https://taskflow-api-zvwb.onrender.com/health)
-
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🏫 Uninex Campus Hub
 A solo campus resource &amp; booking platform &mdash; resource/seat setup,
 time-slot booking with an approval workflow and QR tickets, incident
@@ -420,10 +381,8 @@ rather than in the UI.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-uninex--campus--hub-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/uninex-campus-hub/)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/uninex-campus-hub)
-
 </td>
 <td width="33%" valign="top">
-
 #### 🌌 CLOUDVERSE &mdash; Cybersecurity District
 A gamified simulation of cloud, DevOps and security concepts, built with
 a teammate through real pull-request review. I own the Cyber district and
@@ -441,9 +400,9 @@ swap to a real API without rewriting a component.
 [**View repository →**](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world)
 
 <sub>397 tests across 27 files · lint, tests and build gated on every PR · deploys to GitHub Pages on merge</sub>
-
 </td>
 <td width="33%" valign="top">
+
 
 #### 🛡️ SENTINEL &mdash; Incident Response Platform
 A defensive security operations console. A live event feed is correlated
@@ -470,7 +429,6 @@ checksum, never a signature.
 </tr>
 <tr>
 <td width="33%" valign="top">
-
 #### 🚨 Rescue3D &mdash; Disaster Response Simulator
 A disaster-response coordination platform, built with a teammate through
 real pull-request review &mdash; I own incident intelligence and emergency
@@ -492,18 +450,121 @@ and saying so is cheaper than being caught assuming otherwise.
 [![CI](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator/actions/workflows/ci.yml)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/rescue3d-disaster-response-simulator)
 
-<sub>Frontend live on GitHub Pages · backend deploy in progress · business rules written as pure, DB-free functions so they are unit-tested in isolation</sub>
+<sub>Live end to end · React on GitHub Pages against a Node/Express API and MongoDB Atlas on Render · business rules written as pure, DB-free functions so they are unit-tested in isolation</sub>
+</td>
+<td width="33%" valign="top">
+#### ✅ FlowBoard &mdash; To-Do List App
+A clean task manager with boards, priorities and due dates, built to make
+daily triage fast rather than fussy. No framework: a list this size does not
+need React's render cycle, and skipping it keeps triage feeling instant.
 
+`HTML5` `CSS3` `Vanilla JS`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-flowboard-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://flowboard-fix.vercel.app)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/FlowBoard-TO-DO-List-App_Codveda_Level-02_task2)
 </td>
 <td width="33%" valign="top">
+#### 🔧 FixFinder &mdash; Local Services Directory
+A responsive multi-page directory for finding trusted local tradespeople &mdash;
+searchable and filterable listings, professional profiles, a quote-request
+modal, an FAQ accordion and a working dark mode.
+
+Multi-page rather than an SPA on purpose, so every service category is a real,
+linkable, crawlable URL &mdash; which is what a directory people bookmark
+actually needs.
+
+`HTML5` `CSS3` `Vanilla JS`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-fixfinder-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://fixfinder-fix.vercel.app)
+[**View repository →**](https://github.com/nilushamadhuwanthi123/FixFinder_Codveda_Level1)
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+#### 🏫 Smart Campus Operations System
+A university facility-booking and incident-ticketing platform built with a
+four-person SLIIT team &mdash; Google OAuth sign-in over a REST API secured by
+Spring Security.
+
+Spring Security guards the API itself, not just the React frontend, so booking
+and ticket endpoints stay closed to any client that is not authenticated.
+
+`Spring Boot` `Java` `React` `MySQL` `OAuth 2.0`
+
+[**View repository →**](https://github.com/nilushamadhuwanthi123/Smart_Campus_Operations_PAF)
+
+<sub>Academic group project &middot; SLIIT IT3030 &middot; source available</sub>
 </td>
 <td width="33%" valign="top">
+#### 🌐 LinguaFlow AI &mdash; Translator
+A multilingual translation platform with real auth, text and voice translation,
+AI-assisted rewriting and a usage dashboard over PostgreSQL. Kotlin/Ktor on the
+backend rather than defaulting to Node again &mdash; typed and coroutine-based.
+
+Image, document and video translation are scoped but deliberately **not yet
+built**, and the repo's own roadmap says so rather than implying they ship
+today.
+
+`Kotlin/Ktor` `React` `TypeScript` `PostgreSQL`
+
+[**View repository →**](https://github.com/nilushamadhuwanthi123/LinguaFlow-AI-Translator_App)
+</td>
+<td width="33%" valign="top">
+#### 🗂️ WorkPulse &mdash; Leave &amp; Attendance System
+An enterprise-style leave and attendance system with JWT auth, role-based
+access and a manager approval workflow, replacing manual leave tracking with a
+structured request-and-approve flow.
+
+JWT over session cookies keeps the API stateless &mdash; no server-side session
+store, and the same token model extends to a mobile client without a rewrite.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[**View repository →**](https://github.com/nilushamadhuwanthi123/WorkPuise_Codveda_Level-03)
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+#### 🩸 Blood Donation Management System
+A role-based donor platform with JWT auth, Google Maps donor location,
+real-time notifications and rule-based donor recommendation.
+
+Maps plus rule-based matching rather than a static directory, because in an
+emergency distance and blood-type compatibility are exactly the two variables
+that decide how fast a match happens.
+
+`Java` `JWT` `Google Maps API`
+
+[**View repository →**](https://github.com/nilushamadhuwanthi123/Blood-donation-Management-System)
+</td>
+<td width="33%" valign="top">
+#### 🧘 MindfulDay &mdash; Wellness Tracking App
+A native Android app tracking daily habits, mood, water intake, exercise and
+personal wellness goals, with Firebase behind the data layer.
+
+Native Kotlin rather than a cross-platform framework, so reminders and
+background logging can use real Android APIs instead of routing through a
+compatibility layer.
+
+`Kotlin` `Android Studio` `Firebase`
+
+<sub>Mobile project &middot; build in progress</sub>
+</td>
+<td width="33%" valign="top">
+#### 🚌 UniRoute &mdash; Shuttle Service Management
+A campus shuttle transport management system. I owned the route management
+module &mdash; where the real scheduling and seat conflicts live &mdash; and the
+responsive interface around it.
+
+`React` `Node.js` `MongoDB`
+
+<sub>Full-stack project &middot; build in progress</sub>
 </td>
 </tr>
 </table>
 <div align="center">
 <a href="https://github.com/nilushamadhuwanthi123?tab=repositories">
-<img src="https://img.shields.io/badge/Browse%20all%2027%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/Browse%20all%2028%20repositories-C9A85C?style=for-the-badge&logo=github&logoColor=0B0D0A&labelColor=0B0D0A" />
 </a>
 </div>
 
@@ -511,7 +572,7 @@ and saying so is cheaper than being caught assuming otherwise.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/27%20Projects%20Shipped-Live%20%2F%20Open--Source-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/30%20Projects%20Shipped-20%20Live%20Right%20Now-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/3%20Internships-EgoTechWorld%20%C2%B7%20Codveda%20%C2%B7%20CodeAlpha-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
 <img src="https://img.shields.io/badge/11%20Simplilearn%20Courses-Completed-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/25%2B%20MongoDB%20Skill%20Badges-Earned-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
