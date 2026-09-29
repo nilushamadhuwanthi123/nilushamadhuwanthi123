@@ -396,6 +396,7 @@ swap to a real API without rewriting a component.
 `React 19` `Vite` `JavaScript` `anime.js` `Vitest` `GitHub Actions`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-CLOUDVERSE-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0D0A)](https://nilushamadhuwanthi123.github.io/cloudverse-cyber-world/)
+[![Watch demo](https://img.shields.io/badge/Watch%20demo-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0D0A)](https://lnkd.in/p/g9JMV_3u)
 [![CI](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml/badge.svg)](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world/actions/workflows/ci.yml)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/cloudverse-cyber-world)
 
