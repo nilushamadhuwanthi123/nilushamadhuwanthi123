@@ -153,7 +153,7 @@ math.js &mdash; `eval()` appears nowhere in the codebase.
 
 `Vanilla JS` `Canvas` `math.js` `PWA`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-nexora--calculator-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://nexora-calculator-nilusha.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-nexora--calculator-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://nexora-fix.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_Calculator)
 </td>
 <td width="33%" valign="top">
@@ -164,7 +164,7 @@ once it's loaded once.
 
 `Vanilla JS` `Web Audio API` `IndexedDB` `PWA`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-waveora--musicplayer-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://waveora-musicplayer-nilusha.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-waveora--musicplayer-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://waveora-fix.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_MusicPlayer)
 </td>
 <td width="33%" valign="top">
@@ -175,7 +175,7 @@ keyboard- and screen-reader-operable, not just mouse-first.
 
 `Vanilla JS` `Canvas` `A11y` `PWA`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-mireva--imagegallery-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://mireva-imagegallery-nilusha.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-mireva--imagegallery-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://mireva-fix.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/CodeAlpha_ImageGallery)
 </td>
 </tr>
@@ -232,7 +232,7 @@ dashboard, built to make a full month of cash flow legible at a glance.
 
 `React` `Vite` `Chart.js`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-fintrack-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://fintrack-nilusha.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-fintrack-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://fintrack-fix.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/FinTrack-Finace-Tarcker-app_Codveda_Level-02_task3)
 </td>
 <td width="33%" valign="top">
