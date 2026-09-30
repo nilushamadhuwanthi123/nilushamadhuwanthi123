@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,50:14140F,100:0B0D0A&height=230&section=header&text=NILUVERSE&fontColor=E8DCC0&fontSize=52&fontAlignY=36&desc=Nilusha%20Madhuwanthi%20%E2%80%94%20Full-Stack%20Engineer%20in%20training&descSize=16&descAlignY=58&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;One+live+internship+%2B+two+completed;28+shipped+repositories+and+counting;20+projects+live+right+now+%E2%80%94+not+just+source+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=C9A85C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;One+live+internship+%2B+two+completed;28+shipped+repositories+and+counting;22+projects+live+right+now+%E2%80%94+not+just+source+code" alt="typing" />
 
 <br/>
 
@@ -187,7 +187,7 @@ role-based access control, seeded with realistic demo data.
 
 `React` `Node.js` `Express` `MongoDB`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-medicare--hms-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://medicare-nilusha.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-medicare--hms-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://medicare-hms-nine.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/MediCare-Hospital_Management_System)
 </td>
 <td width="33%" valign="top">
@@ -197,7 +197,7 @@ Socket.IO and analytics computed from real data, not decorative numbers.
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-<sub>Hosted demo retired &mdash; same expired Railway trial as NexaBank.</sub>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-orvexa--app-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://orvexa-app.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/orvexa-productivity-platform)
 </td>
 <td width="33%" valign="top">
@@ -521,6 +521,7 @@ store, and the same token model extends to a mobile client without a rewrite.
 
 `React` `Node.js` `Express` `MongoDB`
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-workpulse--app-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0D0A)](https://workpulse-app-eight.vercel.app)
 [**View repository →**](https://github.com/nilushamadhuwanthi123/WorkPuise_Codveda_Level-03)
 </td>
 </tr>
@@ -573,7 +574,7 @@ responsive interface around it.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/30%20Projects%20Shipped-20%20Live%20Right%20Now-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
+<img src="https://img.shields.io/badge/30%20Projects%20Shipped-22%20Live%20Right%20Now-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/3%20Internships-EgoTechWorld%20%C2%B7%20Codveda%20%C2%B7%20CodeAlpha-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
 <img src="https://img.shields.io/badge/11%20Simplilearn%20Courses-Completed-C9A85C?style=for-the-badge&labelColor=0B0D0A" />
 <img src="https://img.shields.io/badge/25%2B%20MongoDB%20Skill%20Badges-Earned-C9A85C?style=for-the-badge&labelColor=0B0D0A" /><br/>
